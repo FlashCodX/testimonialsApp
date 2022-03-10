@@ -1,4 +1,3 @@
-# ![preview](src/assets/screenshot.png) Testimonials App
 
 Just a quick challenge made for Frontend Mentor.
 
