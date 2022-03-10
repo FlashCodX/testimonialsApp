@@ -1,5 +1,5 @@
 # Testimonials App
-# ![https://flashcodx.github.io/testimonialsapp/](src/assets/screenshot.png) 
+# !['https://flashcodx.github.io/testimonialsapp/'](src/assets/screenshot.png) 
 
 Just a quick challenge made for Frontend Mentor.
 
