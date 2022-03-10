@@ -1,4 +1,5 @@
-# ![preview](src/assets/screenshot.png) Testimonials App
+Testimonials App
+# ![preview](src/assets/screenshot.png) 
 
 Just a quick challenge made for Frontend Mentor.
 
@@ -8,7 +9,7 @@ Just a quick challenge made for Frontend Mentor.
 ## Tech
 * [React] - HTML enhanced for web apps!
 * [WebStorm Editor] - Awesome web-based text editor made by JetBrains.
-* [CSS Grid] 
+* CSS Grid 
 
 
 License
